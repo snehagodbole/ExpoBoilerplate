@@ -7,8 +7,8 @@
 
 # Installation instructions
 
-Run npm install
+Run npm install to install all the dependancies
 
-then npm install expo-cli --global
+then Run npm install expo-cli --global to run app using expo
 
-After the dependencies have installed, attempt to run npm start
+After the dependencies have installed, attempt to run npm start or expo start
